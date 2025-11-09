@@ -1,8 +1,7 @@
-<br>
-**`FE web dev and card game enthusiast`**
 <br/>
 <div align="center">
-
+<div>afternoon projects</div>
+<br/>
 <a href="https://bountylog.app">
   <img src="assets/app-links/bountylog-app.png" height="40" alt="BountyLog" />
 </a>
@@ -15,7 +14,7 @@
   <img src="assets/app-links/donetask-app.png" height="40" alt="DoneTask" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="assets/bountylog-riftarchive-showcase.png" width="49%" alt="BountyLog & RiftArchive" />
 &nbsp;
