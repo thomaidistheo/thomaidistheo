@@ -1,3 +1,6 @@
+<br>
+**`FE web dev and card game enthusiast`**
+<br/>
 <div align="center">
 
 <a href="https://bountylog.app">
@@ -12,14 +15,10 @@
   <img src="assets/app-links/donetask-app.png" height="40" alt="DoneTask" />
 </a>
 
-<br/><br/>
+<br/>
 
-<a href="https://bountylog.app">
-  <img src="assets/bountylog-riftarchive-showcase.png" width="49%" alt="BountyLog & RiftArchive" />
-</a>
+<img src="assets/bountylog-riftarchive-showcase.png" width="49%" alt="BountyLog & RiftArchive" />
 &nbsp;
-<a href="https://thomaidistheo.github.io/Overengineered-Todo-App/">
-  <img src="assets/todo-app-showcase.png" width="49%" alt="DoneTask Todo App" />
-</a>
+<img src="assets/todo-app-showcase.png" width="49%" alt="DoneTask Todo App" />
 
 </div>
